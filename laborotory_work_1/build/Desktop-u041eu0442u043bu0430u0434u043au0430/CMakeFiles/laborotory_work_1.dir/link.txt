@@ -1,0 +1,1 @@
+/bin/clang++-19 -g CMakeFiles/laborotory_work_1.dir/laborotory_work_1_autogen/mocs_compilation.cpp.o CMakeFiles/laborotory_work_1.dir/main.cpp.o -o laborotory_work_1  -Wl,-rpath,:::::::::::::::::::::: /usr/lib/x86_64-linux-gnu/libQt6Core.so.6.10.2

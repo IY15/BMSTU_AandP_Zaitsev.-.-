@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_laborotory_work_2_FILE /home/user/Загрузки/QT CREATOR/laborotory_work_2/build/Desktop-u041eu0442u043bu0430u0434u043au0430/laborotory_work_2)
+set(__QT_DEPLOY_TARGET_laborotory_work_2_TYPE EXECUTABLE)

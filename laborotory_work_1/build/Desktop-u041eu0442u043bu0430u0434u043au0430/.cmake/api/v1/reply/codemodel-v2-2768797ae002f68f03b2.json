@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-88dace80909a3aaddced.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "laborotory_work_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "laborotory_work_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laborotory_work_1-Debug-06b56f43f0faf61319f6.json",
+					"name" : "laborotory_work_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laborotory_work_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laborotory_work_1_autogen-Debug-408279b954bd9a0058ee.json",
+					"name" : "laborotory_work_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "laborotory_work_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-laborotory_work_1_autogen_timestamp_deps-Debug-6b74ce3133df55e8bea3.json",
+					"name" : "laborotory_work_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/QT CREATOR/laborotory_work_1/build/Desktop-u041eu0442u043bu0430u0434u043au0430",
+		"source" : "/home/user/\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0438/QT CREATOR/laborotory_work_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
