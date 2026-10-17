@@ -17,3 +17,4 @@ int main(int argc, char *argv[])
 
     return QCoreApplication::exec();
 }
+// natkin@bmstu.ru

@@ -19,3 +19,6 @@ install(TARGETS BMSTU_AandP_Zaitsev----
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
 )
+add_subdirectory(laborotory_work_1)
+add_subdirectory(laborotory_work_2)
+add_subdirectory(laborotory_work_3)
